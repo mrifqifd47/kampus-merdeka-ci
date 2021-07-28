@@ -51,7 +51,7 @@
             <div class="col s12 left">
                 <a href="#" class="brand-logo "><img src="<?php echo base_url(); ?>assets/img/logo-kampus-merdeka.png">
                 </a>
-                <img src="<?= base_url(); ?>assets/img/avatar-10.png" alt="" class="dropdown-trigger right" data-target="dropdown2" style="width: 50px; margin-right: 50px; margin-top: 25px;">
+                <img src="<?= base_url(); ?>assets/img/avatar-11.png" alt="" class="dropdown-trigger right" data-target="dropdown2" style="width: 50px; margin-right: 50px; margin-top: 25px;">
             </div>
 
         </div>
